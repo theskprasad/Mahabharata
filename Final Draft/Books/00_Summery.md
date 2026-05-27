@@ -1,6 +1,14 @@
-| # | Parva | Section Count | Sub-Parva Count | File |
-|---------------|----------------|---------------|----------------|--------------|
+# | Parva | Section Count | Sub-Parva Count | File |
+|---|---|---|---|---|
 | 01 | Adi Parva | 236 | 194 | 01_Adi_Parva.md |
+| | | **Sub-Parvas:** |
+| | | 1. Paushya Parva | 1 section |
+| | | 2. Pauloma Parva | 9 sections |
+| | | 3. Astika Parva | 45 sections |
+| | | 4. Adivansavatarana Parva | 6 sections |
+| | | 5. Sambhava Parva | 77 sections |
+| | | 6. Jatugriha Parva | 11 sections |
+| | | 7. Chaitraratha Parva | 12 sections |
 | 02 | Sabha Parva | 79 | 7 | 02_Sabha_Parva.md |
 | 03 | Vana Parva | 313 | 7 | 03_Vana_Parva.md |
 | 04 | Virata Parva | 72 | 1 | 04_Virata_Parva.md |
