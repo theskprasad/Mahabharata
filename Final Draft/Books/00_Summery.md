@@ -1,28 +1,22 @@
-# | Parva | Section Count | Sub-Parva Count | File |
+# The 18 Parvas of the Mahabharata
+
+| Parva | Title | Sub-Parvas (Upa Parvas) | Chapters (Adhyayas / Sections) | Discrepancy in Your Summary |
 |---|---|---|---|---|
-| 01 | Adi Parva | 236 | 194 | 01_Adi_Parva.md |
-| | | **Sub-Parvas of Adi Parva:** | | |
-| | | 1. Paushya Parva | 1 section | |
-| | | 2. Pauloma Parva | 9 sections | |
-| | | 3. Astika Parva | 45 sections | |
-| | | 4. Adivansavatarana Parva | 6 sections | |
-| | | 5. Sambhava Parva | 77 sections | |
-| | | 6. Jatugriha Parva | 11 sections | |
-| | | 7. Chaitraratha Parva | 12 sections | |
-| 02 | Sabha Parva | 79 | 7 | 02_Sabha_Parva.md |
-| 03 | Vana Parva | 313 | 7 | 03_Vana_Parva.md |
-| 04 | Virata Parva | 72 | 1 | 04_Virata_Parva.md |
-| 05 | Udyoga Parva | 199 | 2 | 05_Udyoga_Parva.md |
-| 06 | Bhishma Parva | 124 | 1 | 06_Bhishma_Parva.md |
-| 07 | Drona Parva | 200 | 1 | 07_Drona_Parva.md |
-| 08 | Karna Parva | 0 | 0 | 08_Karna_Parva.md |
-| 09 | Shalya Parva | 0 | 0 | 09_Shalya_Parva.md |
-| 10 | Sauptika Parava | 0 | 0 | 10_Sauptika_Parava.md |
-| 11 | Stri Parva | 0 | 0 | 11_Stri_Parva.md |
-| 12 | Santi Parva | 362 | 3 | 12_Santi_Parva.md |
-| 13 | Anusasana Parva | 168 | 2 | 13_Anusasana_Parva.md |
-| 14 | Aswamedha Parva | 92 | 2 | 14_Aswamedha_Parva.md |
-| 15 | Asramavasika Parva | 39 | 3 | 15_Asramavasika_Parva.md |
-| 16 | Mausala Parva | 0 | 0 | 16_Mausala_Parva.md |
-| 17 | Mahaprasthanika Parva | 0 | 0 | 17_Mahaprasthanika_Parva.md |
-| 18 | Svargarohanika Parva | 0 | 0 | 18_Svargarohanika_Parva.md |
+| 1 | Adi Parva (The Book of the Beginning) | 19 | 236 | Matches |
+| 2 | Sabha Parva (The Book of the Assembly Hall) | 10 | 81 | 79 (likely off by 2 sections) |
+| 3 | Vana Parva (The Book of the Forest) | 21 | 324 | 313 (likely off by 11 sections) |
+| 4 | Virata Parva (The Book of Virata) | 4 | 67 | 72 (likely off by 5 sections) |
+| 5 | Udyoga Parva (The Book of the Effort) | 11 | 186 | Matches |
+| 6 | Bhishma Parva (The Book of Bhishma) | 5 | 117 | 124 (likely off by 7 sections) |
+| 7 | Drona Parva (The Book of Drona) | 8 | 170 | 200 (likely off by 30 sections) |
+| 8 | Karna Parva (The Book of Karna) | 4 | 69 | Pending |
+| 9 | Shalya Parva (The Book of Shalya) | 4 | 59 | Pending |
+| 10 | Sauptika Parva (The Book of the Sleeping Warriors) | 2 | 18 | Pending |
+| 11 | Stri Parva (The Book of the Women) | 4 | 27 | Pending |
+| 12 | Shanti Parva (The Book of Peace) | 6 | 339 | Matches |
+| 13 | Anushasana Parva (The Book of the Instructions) | 2 | 146 | Matches |
+| 14 | Ashvamedhika Parva (The Book of the Horse Sacrifice) | 2 | 103 | Matches |
+| 15 | Ashramavasika Parva (The Book of the Hermitage) | 3 | 42 | Matches |
+| 16 | Mausala Parva (The Book of the Clubs) | - | 8 | Pending |
+| 17 | Mahaprasthanika Parva (The Book of the Great Journey) | - | 3 | Pending |
+| 18 | Svargarohana Parva (The Book of the Ascent to Heaven) | - | 5 | Pending |
